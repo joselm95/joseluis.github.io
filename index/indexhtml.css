@@ -1,0 +1,114 @@
+html {
+min-height: 100%;
+position: relative;
+}
+
+body {
+
+margin: 0;
+margin-bottom: 40px;
+}
+
+.logo {
+	
+	background-color:black ;
+	list-style: none;
+	text-align: center;
+
+}
+
+.logo img {
+
+	width: 300px;
+	padding-top: 10px;
+}
+
+.logo img:hover {
+
+	background-image: url("html.png");
+	width: 300px;
+}
+
+.logo h1 {
+
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 15px;
+	margin-bottom: -5px;
+	color: white;
+	
+}
+
+.menu {
+
+	width: auto;
+	height: 55px;
+	display: flex;
+	justify-content: center;
+	background-color: black;
+
+}
+
+.menu li {
+
+	
+	list-style: none;
+	text-align-last: center;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 15px;
+	width: 250px;
+	height: 40px;
+	font-size: 20px;
+	
+}
+
+.menu a {
+
+	text-decoration: none;
+	color: white;
+
+}
+
+.menu li:hover {
+
+	background-color:   #dd6002;
+	color: black;
+
+}
+
+.pie {
+
+	background-color: black;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	color: white;
+}
+
+.pie p {
+
+	text-align: center;
+	
+}
+
+.seccion {
+
+	margin: 9%;
+}
+
+.articulo {
+
+	font-weight: bold;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.seccion i {
+
+	margin: 5px;
+	font-size: 20px; 
+}

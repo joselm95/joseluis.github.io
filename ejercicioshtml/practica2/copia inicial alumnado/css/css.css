@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: auto;
+
+}
+
+header {
+
+	background-image: url(../img/bg.png);
+	width: 100%;
+	height: 130%;
+	
+}
+
+header p {
+
+	padding-bottom: 30px;
+}
+
+nav {
+	float: right;
+	margin-right: 310px;
+	padding-top: 30px;
+}
+
+#logo {
+	margin-left: 150px;
+	padding-bottom: 20px;
+}
+
+#banner {
+	margin-left: 157px;
+	border: 5px ridge white;
+
+}
+
+nav ul li {
+
+	display: inline-block;
+	width: 70px;
+	color: #FFFFFF;
+}
+
+nav ul li a {
+	
+	color: #FFFFFF;
+	font-size: 17px;
+}
+
+header p {
+
+	width: 900px;
+	color: #FFFFFF;
+	margin-left: 11.5%;
+}
+
+header h1 {
+	color: #FFFFFF;
+	padding-left: 11.5%;
+}
+
+
+
+
+
+
+#principal {
+	background-color: #868686;
+	float: left;
+	padding-left: 11.5%;
+
+}
+
+.articulos {
+
+	width: 22%;
+	float: left;
+	
+}
+
+.articulos button a {
+	color: #E57A23;
+	text-decoration: none;
+	padding: 15px 20px 20px 20px;
+}
+
+.articulos button {
+	margin-bottom: 30px;
+}
+
+.articulos h2 {
+	color: #E57A23;
+	margin-bottom: 10px;
+}
+
+.articulos p {
+	height: 230px;
+	width: 190px;
+}
+
+.picture {
+	border: 5px ridge white;
+}
+
+#tumbado {
+	float: left;
+	border: 5px ridge white;
+	margin-bottom: 40px;
+
+}
+
+#fernand {
+	float: right;
+	width: 640px;
+	margin-left: 30px;
+}
+
+#fernand p {
+
+}
+
+#quinto {
+	float: left;
+	
+}
+
+#quinto h2 {
+	color: #EF8080;
+	margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+footer {
+	display: inline-block;
+	background-image: url(../img/footer.png);
+	background-repeat: repeat-x;
+	float: left;
+	width: 100%;
+	 
+}
+
+
+#catpaw {
+	position: relative;
+	bottom: 100px;
+	float: right;
+	
+
+}
+
+#hello {
+	margin-top: 20px;
+	float: left;
+	margin-left: 5%;
+	padding-right: 150px;
+	color: white;
+}
+
+#bla {
+	margin-top: 20px;
+	float: left;
+	padding-right: 150px;
+	color: white;
+}
+
+#purr{
+	margin-top: 20px;
+	float: left;
+	color: white;
+}
+
+#valid {
+	
+	margin-top: 10%;
+	float: left;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	color: white;
+}
+
+ #copy {
+	
+	margin-top: 10%;
+	float: left;
+	margin-bottom: 10%;
+	margin-left: 10%;
+	color: white;
+}
