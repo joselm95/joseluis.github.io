@@ -1,0 +1,13 @@
+header{
+	font-size: 60px;
+}
+body a{
+	font-size: 40px;
+	text-decoration: none;
+	color: #FF0000;
+}
+
+img {
+	width: 320px;
+	height: 380px;
+}
