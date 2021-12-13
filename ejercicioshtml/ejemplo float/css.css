@@ -1,0 +1,46 @@
+body {
+	background-color: #04A9FF;
+	
+}
+
+nav ul li {
+	display:inline-block;
+	padding: 50px;
+}
+
+div {
+	border-color: #000000;
+	border:solid 2px;
+	padding: 10px;
+	text-align: center;
+	line-height: 50px;
+}
+
+#cajas {
+
+}
+
+#caja1 {
+	float: left;
+	background-color: #FFFFFF;
+	width: 20%;
+}
+
+#caja2 {  
+	float: right;
+	background-color: #148002;
+	width: 20%;
+ }
+
+ #descolocada {
+ 	clear: both;
+ 	background-color: #004AAF;
+ }
+
+ #margenes {
+
+ 	background-color: rgba(255,255,0,0.4);
+ 	margin: 200px;
+ 	padding: 30px 10px 25px 15px;
+ 	font-size: 28px;
+ }

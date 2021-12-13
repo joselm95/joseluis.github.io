@@ -1,0 +1,71 @@
+@font-face {
+   		font-family: fable;
+ 		src: url('fuente/Fabled.otf') format('opentype');
+			}
+
+@font-face {
+   		font-family: menphis;
+ 		src: url('fuente/MemphisFree.ttf') format('truetype');
+			}
+
+@font-face {
+   		font-family: regular;
+ 		src: url('fuente/BethanyKibangRegular.ttf') format('truetype');
+			}
+
+th {
+		font-family: fable;
+		font-size: 100%;
+			}
+
+table {
+	width: 100%;
+	border-collapse: collapse; /* evitar bordes separados*/
+}
+
+td {
+	border: 2px solid black;
+	text-align: center;
+}
+
+th {
+	border: 2px solid black;
+	text-align: center;
+	background-color: #a5b1d7; 
+}
+
+.BD {
+	font-family: menphis;
+	font-size: 100%;
+	color: red;
+}
+
+.LM {
+	font-family: fable;
+	font-size: 100%;
+	color:  #d0a5d7 ;
+}
+
+.PAR {
+	font-family: regular;
+	font-size: 100%;
+	color:  #a5d6d7 ;
+}
+
+.HARD {
+	font-family: regular;
+	font-size: 100%;
+	color:  #d1d7a5 ;
+}
+
+.ISO {
+	font-family: regular;
+	font-size: 100%;
+	color:   #d7a382  ;
+}
+
+.FOL {
+	font-family: regular;
+	font-size: 100%;
+	color:    #82a5d7;
+}
