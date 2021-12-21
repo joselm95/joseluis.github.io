@@ -1,0 +1,110 @@
+
+
+header {
+	background-image: url(../img/bg.png);
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+nav {
+	float: right;
+	
+}
+
+nav a:hover {
+	background-color: #E55718;
+	width: 11px;
+	color: #FFFFFF;
+}
+
+nav ul {
+	margin-right: 300px;
+	margin-top: 50px;
+
+}
+
+nav ul li {
+	text-decoration: none;
+	float: left;
+	list-style: none;
+	padding: 4px;
+	background-color: #FFFFFF;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #E67F1A;
+	padding: 8px;
+}
+
+#seccion {
+	background-color: #DDDDDD;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+#last {
+	background-color: #FFFFFF;
+	width: 88.5%;
+	float: right;
+	margin-top: 40px;
+	margin-right: 6%;
+	padding: 10px;
+	/*margin-left: 10%;*/
+}
+
+.principal {
+	background-color: #FFFFFF;
+	display: inline-block;
+	width: 300px;
+	margin-right: 15px;
+	margin-left: 45px;
+	margin-bottom: 9%;
+	margin-top: 5%;
+	padding: 10px;
+}
+
+.principal img {
+	width: 50px;
+	height: 50px;
+}
+
+.principal a {
+	text-decoration: none;
+}
+
+footer {
+	background-image: url(../img/footer.png);
+	margin-right: 5%;
+	margin-left: 5%;
+	padding-left: 5%;
+	padding-bottom: -5%;
+
+}
+
+footer img {
+	width: 145px;
+	height: 145px;
+}
+
+footer div {
+	float: left;
+	padding-right: 95px;
+	color: #FFFFFF;
+}
+
+
+footer a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+footer a:hover {
+	color: #E55718;
+}
+
+footer p {
+	color: #FFFFFF;
+	display: inline-block;
+	padding-right: 290px;
+}
